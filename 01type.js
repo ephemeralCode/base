@@ -34,7 +34,7 @@ console.log(1 + '2') //12 - приводит к string
 console.log('' + 1 + 0) //10
 
 // зависит от действия
-console.log('' + 1 + 0) // -1 - приводит к number
+console.log('' - 1 + 0) // -1 - приводит к number
 console.log('3' * '8') // 24 - приводит к number
 console.log('42' - 40); // 2
 
