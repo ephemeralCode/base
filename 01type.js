@@ -20,7 +20,7 @@ console.log(typeof {}); // object
 
 let lang = 'JS'; //string
 
-// приводит sting к boolean типу данных
+// приводит string к boolean типу данных
 if (lang){ //true
     console.log('Yes, i am', lang)
 }
